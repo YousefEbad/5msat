@@ -64,7 +64,7 @@
 /* main */
 main{
     min-height: 100vh;
-    background-image: url('assets/main.jpg');
+    background-image: url('main.jpg');
     background-size: 100% 100%;
     display: flex;
     flex-direction: column;
@@ -128,7 +128,7 @@ main button{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('assets/service-1.jpg');
+    background-image: url('service-1.jpg');
     background-size: 100% 100%;
     position: relative;
     margin: 20px auto;
@@ -143,25 +143,25 @@ main button{
     left: 0;
 }
 .services .parent-services .service-two{
-    background-image: url('assets/service-2.jpg');
+    background-image: url('service-2.jpg');
 }
 .services .parent-services .service-three{
-    background-image: url('assets/service-3.jpg');
+    background-image: url('service-3.jpg');
 }
 .services .parent-services .service-four{
-    background-image: url('assets/service-4.jpg');
+    background-image: url('service-4.jpg');
 }
 .services .parent-services .service-five{
-    background-image: url('assets/service-5.jpg');
+    background-image: url('service-5.jpg');
 }
 .services .parent-services .service-six{
-    background-image: url('assets/service-6.jpg');
+    background-image: url('service-6.jpg');
 }
 .services .parent-services .service-seven{
-    background-image: url('assets/service-7.jpg');
+    background-image: url('service-7.jpg');
 }
 .services .parent-services .service-eight{
-    background-image: url('assets/service-8.jpg');
+    background-image: url('service-8.jpg');
 }
 .services .parent-services .service p{
     font-size: 40px;
