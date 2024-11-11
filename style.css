@@ -106,6 +106,7 @@ main button{
     background-color: #52b035;
     font-size: 18px;
     color: white;
+    cursor: pointer;
 }
 /* services start */
 .services {
